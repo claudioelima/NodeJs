@@ -28,6 +28,6 @@ app.post('/cadastro', (req, res) => {
     });
     
     // Iniciando o servidor na porta 3000
-    app.listen(3000, () => {
+    app.listen(80, () => {
     console.log('Servidor iniciado na porta 3000');
     });
