@@ -7,7 +7,7 @@
   ],
   "routes": [
     {
-      "src": "/(.*)",
+      "src": "/cadastro(.*)",
       "dest": "/index.js"
     }
   ]
