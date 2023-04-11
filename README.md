@@ -1,24 +1,21 @@
-|<p>SN</p><p></p>||
-| :-: | :- |
+**O que é**
 
-|<p><h1>SEU NOME</h1></p><p><h2></h2></p>|
-| -: |
+O API é um projeto idealizado pela Fatec de São José dos Campos que visa a integração da grade curricular ao desenvolvimento do aluno através de um projeto real de tecnologia. Nesse sentido, a API do segundo semestre de Análise e Desenvolvimento de Sistemas é voltada para a criação de um sistema java desktop, cujo propósito é facilitar o controle de rendimento do corpo discente de um colégio.
 
-|||
-| :-: | :- |
-![](Aspose.Words.83ec1854-3a0c-4b96-ba8b-6ae35c65b6ea.001.png)
-|<p>![](Aspose.Words.83ec1854-3a0c-4b96-ba8b-6ae35c65b6ea.002.png)SN</p><p><h3>OBJETIVO</h3></p><p>Para começar, clique no texto de espaço reservado e comece a digitar. Seja breve: uma ou duas frases.</p><p>Clique duas vezes nas células da tabela, no rodapé, para adicionar as informações de contato ou exclua as colunas não desejadas.</p><p><h3>HABILIDADES</h3></p><p>Explique em que você é especialmente bom. O que diferencia você? Use suas próprias palavras em vez de jargão.</p>||
-| :-: | :- |
+**Solução de proposta**
 
-|<p><h1>SEU NOME</h1></p><p><h2>PROFISSÃO OU SETOR | LINK PARA OUTRAS PROPRIEDADES ONLINE: PORTFÓLIO/SITE/BLOG</h2></p>|
-| -: |
+Sabe-se que o controle de rendimento de qualquer objeto é uma tarefa complexa. Sob essa ótica, propomos a criação de uma aplicação de fácil consulta, intuitiva e efetiva. À vista disso, o projeto abriga um sistema de navegação lateral (sidebar), dashboard, gerenciamento de notas, atividades e alunos da instituição.
 
-||<p><h3>EXPERIÊNCIA</h3></p><p><h4>CARGO • EMPRESA • DATAS DE – ATÉ</h4></p><p>Resuma suas principais responsabilidades, liderança e realizações mais relevantes. Não liste tudo; mantenha apenas informações relevantes e inclua dados que mostrem o impacto que você causou.</p><p><h4>CARGO • EMPRESA • DATAS DE – ATÉ</h4></p><p>Pense no tamanho da equipe que você liderou, no número de projetos que coordenou ou no número de artigos que escreveu.</p><p><h3>ESCOLARIDADE</h3></p><p><h4>CURSO • DATA DE CONCLUSÃO • ESCOLA</h4></p><p>Convém incluir sua média e um resumo dos cursos, prêmios e homenagens relevantes.</p><p><h4>CURSO • DATA DE CONCLUSÃO • ESCOLA</h4></p><p>Na guia Página Inicial da faixa de opções, use os Estilos para aplicar a formatação desejada com um único clique.</p><p><h3>EXPERIÊNCIA VOLUNTÁRIA OU DE LIDERANÇA</h3></p><p>Você comandou uma equipe em seu clube, liderou um projeto para a sua instituição de caridade preferida ou editou o jornal da sua escola? Descreva experiências que ilustrem suas habilidades de liderança.</p>|
-| :-: | :- |
+**features**
 
+- Navegação via sidebar.
+- Dashboard para demontrar médias gerais.
+- Manuseio de notas dos alunos.
+- Manuseio das entregas de atividade dos alunos.
 
-|![](Aspose.Words.83ec1854-3a0c-4b96-ba8b-6ae35c65b6ea.003.png "Ícone de email")|![](Aspose.Words.83ec1854-3a0c-4b96-ba8b-6ae35c65b6ea.004.png "Ícone do Twitter")|![](Aspose.Words.83ec1854-3a0c-4b96-ba8b-6ae35c65b6ea.005.png "Ícone de telefone")|![](Aspose.Words.83ec1854-3a0c-4b96-ba8b-6ae35c65b6ea.006.png "Ícone do LinkedIn")|
-| :-: | :-: | :-: | :-: |
-|EMAIL|IDENTIFICADOR DO TWITTER|TELEFONE|URL DO LINKEDIN|
-2
+**Benefícios**
 
+- Acesso rápido e fácil as informações.
+- Cadastro simplificado de alunos e salas.
+- Aplicação offline.
+- Controle simplificado de notas e tarefas.
