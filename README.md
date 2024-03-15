@@ -66,35 +66,31 @@ Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914
 
 Aqui está um exemplo de como seria a estrutura do projeto:
 
-![Fundo preto com letras brancas
+![](https://github.com/claudioelima/NodeJs/blob/main/FIG02.png)
 
 Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914db45c.002.png)
 
-
-
-
-
 Aqui está o código para **src/routes.ts**, onde definiremos nossas rotas:
 
-![Texto
+![](https://github.com/claudioelima/NodeJs/blob/main/FIG03.png)
 
 Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914db45c.003.png)
 
 **Usando EJS**
 
-![Texto
+![](https://github.com/claudioelima/NodeJs/blob/main/FIG04.png)
 
 Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914db45c.004.png)
 
 Agora, vamos criar o arquivo **src/server.ts** para configurar o servidor e usar as rotas definidas:
 
-![Texto
+![](https://github.com/claudioelima/NodeJs/blob/main/FIG05.png)
 
 Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914db45c.005.png)
 
 **Usando EJS** 
 
-![Texto
+![](https://github.com/claudioelima/NodeJs/blob/main/FIG06.png)
 
 Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914db45c.006.png)
 
