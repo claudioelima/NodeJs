@@ -59,6 +59,7 @@ Aqui está um exemplo usando rota e template engine. Para usar o EJS é preciso 
 **npm install ejs –save**
 
 Arquivo server.ts
+
 ![](https://github.com/claudioelima/NodeJs/blob/main/FIG01.png)
 
 Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914db45c.001.png)
