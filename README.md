@@ -1,22 +1,108 @@
-**O que é**
-![](Aspose.Words.2d911f1b-5638-4610-b1fa-092287a3cab6.001.png)
+**Configurar um projeto com TypeScript**
 
-O API é um projeto idealizado pela Fatec de São José dos Campos que visa a integração da grade curricular ao desenvolvimento do aluno através de um projeto real de tecnologia. Nesse sentido, a API do segundo semestre de Análise e Desenvolvimento de Sistemas é voltada para a criação de um sistema java desktop, cujo propósito é facilitar o controle de rendimento do corpo discente de um colégio.
+1\.Crie um diretório para o seu projeto e navegue até ele no terminal:
 
-**Solução de proposta**
+2\. Execute o comando **npm init** para criar um arquivo package.json. Siga as instruções para configurar seu projeto.
 
-Sabe-se que o controle de rendimento de qualquer objeto é uma tarefa complexa. Sob essa ótica, propomos a criação de uma aplicação de fácil consulta, intuitiva e efetiva. À vista disso, o projeto abriga um sistema de navegação lateral (sidebar), dashboard, gerenciamento de notas, atividades e alunos da instituição.
+3\. Instale o TypeScript e o ts-node (um interpretador TypeScript para Node.js) globalmente ou localmente, dependendo de suas preferências:
 
-**features**
+Globalmente:
 
-- Navegação via sidebar.
-- Dashboard para demontrar médias gerais.
-- Manuseio de notas dos alunos.
-- Manuseio das entregas de atividade dos alunos.
+**npm install -g typescript ts-node**
 
-**Benefícios**
+Localmente (recomendado para projetos individuais):
 
-- Acesso rápido e fácil as informações.
-- Cadastro simplificado de alunos e salas.
-- Aplicação offline.
-- Controle simplificado de notas e tarefas.
+**npm install --save-dev typescript ts-node**
+
+4\. Inicialize o TypeScript no seu projeto:
+
+**tsc --init**
+
+Isso criará um arquivo **tsconfig.json** no seu projeto.
+
+**Criando primeiro código TypeScript**
+
+Vamos criar um arquivo **app.ts** na raiz de nosso projeto com seguinte código:
+
+let idade: number = 15;
+
+let nome: string = 'Paula';
+
+console.log(`nome: ${nome}, idade: ${idade}`);
+
+Depois de criar um arquivo TypeScript com a extensão ".ts" e, em seguida, usar o comando tsc para compilá-lo em JavaScript:
+
+**tsc app.ts**
+
+O tsc é o executável do TypeScript, que irá gerar o código JavaScript de acordo com as configurações que colocamos nos parâmetros do arquivo tsconfig.json
+
+Podemos testar e executar o código JavaScript gerado, vamos usar o comando
+
+node app.js
+
+O resultado será:
+
+nome: Paula, idade: 15
+
+
+
+
+
+
+**Criando Rotas em Node.js com TypeScript**
+
+Primeiro, você precisa ter o Node.js instalado em seu sistema. Em seguida, crie um novo diretório para o seu projeto e execute **npm init** para iniciar um novo projeto npm. Depois, instale as dependências necessárias usando **npm install express @types/express typescript.**
+
+Inicialize o TypeScript no seu projeto:
+
+**tsc --init**
+
+Isso criará um arquivo **tsconfig.json** no seu projeto.
+
+Aqui está um exemplo usando rota e template engine. Para usar o EJS é preciso instalar o EJS
+
+**npm install ejs –save**
+
+Arquivo server.ts
+
+![Texto
+
+Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914db45c.001.png)
+
+
+
+Aqui está um exemplo de como seria a estrutura do projeto:
+
+![Fundo preto com letras brancas
+
+Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914db45c.002.png)
+
+
+
+
+
+Aqui está o código para **src/routes.ts**, onde definiremos nossas rotas:
+
+![Texto
+
+Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914db45c.003.png)
+
+**Usando EJS**
+
+![Texto
+
+Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914db45c.004.png)
+
+Agora, vamos criar o arquivo **src/server.ts** para configurar o servidor e usar as rotas definidas:
+
+![Texto
+
+Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914db45c.005.png)
+
+**Usando EJS** 
+
+![Texto
+
+Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914db45c.006.png)
+
+Execute o aplicativo usando o comando: **ts-node server.ts**
