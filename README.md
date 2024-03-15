@@ -74,24 +74,20 @@ Aqui está o código para **src/routes.ts**, onde definiremos nossas rotas:
 
 ![](https://github.com/claudioelima/NodeJs/blob/main/FIG03.png)
 
-Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914db45c.003.png)
 
 **Usando EJS**
 
 ![](https://github.com/claudioelima/NodeJs/blob/main/FIG04.png)
 
-Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914db45c.004.png)
 
 Agora, vamos criar o arquivo **src/server.ts** para configurar o servidor e usar as rotas definidas:
 
 ![](https://github.com/claudioelima/NodeJs/blob/main/FIG05.png)
 
-Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914db45c.005.png)
 
 **Usando EJS** 
 
 ![](https://github.com/claudioelima/NodeJs/blob/main/FIG06.png)
 
-Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914db45c.006.png)
 
 Execute o aplicativo usando o comando: **ts-node server.ts**
