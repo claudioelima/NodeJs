@@ -44,11 +44,6 @@ O resultado será:
 
 nome: Paula, idade: 15
 
-
-
-
-
-
 **Criando Rotas em Node.js com TypeScript**
 
 Primeiro, você precisa ter o Node.js instalado em seu sistema. Em seguida, crie um novo diretório para o seu projeto e execute **npm init** para iniciar um novo projeto npm. Depois, instale as dependências necessárias usando **npm install express @types/express typescript.**
@@ -67,7 +62,7 @@ Arquivo server.ts
 ![Logo da Minha Empresa](https://github.com/claudioelima/Aula-PHP/blob/main/FIG02.png)
 
 
-![] (https://github.com/claudioelima/NodeJs/blob/main/FIG01.png)
+![Logo da Minha Empresa](https://github.com/claudioelima/NodeJs/blob/main/FIG01.png)
 
 Descrição gerada automaticamente](Aspose.Words.f0cf83ef-a4ed-40a0-a369-59b4914db45c.001.png)
 
