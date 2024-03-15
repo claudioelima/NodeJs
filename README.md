@@ -1,4 +1,5 @@
 **O que é**
+![](Aspose.Words.2d911f1b-5638-4610-b1fa-092287a3cab6.001.png)
 
 O API é um projeto idealizado pela Fatec de São José dos Campos que visa a integração da grade curricular ao desenvolvimento do aluno através de um projeto real de tecnologia. Nesse sentido, a API do segundo semestre de Análise e Desenvolvimento de Sistemas é voltada para a criação de um sistema java desktop, cujo propósito é facilitar o controle de rendimento do corpo discente de um colégio.
 
